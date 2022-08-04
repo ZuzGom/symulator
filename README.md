@@ -27,4 +27,5 @@ CZEGO NIE UWZGLĘDNIA:
 - prędkości kątowej
 - Saturna
 
-(ale już niedługo ;)
+https://docs.google.com/presentation/d/16-TMFS5BC_7Y7fjRGQgvO02DmemcVedGcHWO4wUWJO4/edit?usp=sharing
+

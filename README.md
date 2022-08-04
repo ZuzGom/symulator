@@ -1,5 +1,5 @@
 ✧･ﾟ: ✧･ﾟ: 　　 
-# Symulator ruchu planet w Układzie Słonecznym 　　         
+ Symulator ruchu planet w Układzie Słonecznym 　　         
                                          :･ﾟ✧:･ﾟ✧
 
 Wersja ta jest całkowicie samowystarczalna, 

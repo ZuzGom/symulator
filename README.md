@@ -1,6 +1,7 @@
 ✧･ﾟ: ✧･ﾟ: 　　 
  Symulator ruchu planet w Układzie Słonecznym 　　         
                                          :･ﾟ✧:･ﾟ✧
+To mój szkolny projekt na zaliczenie.
 
 Wersja ta jest całkowicie samowystarczalna, 
 ale jeśli chcesz możesz dodatkowo pobrać ikonę 

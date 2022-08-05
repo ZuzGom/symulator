@@ -26,6 +26,6 @@ CZEGO NIE UWZGLĘDNIA:
 - wzajemnego oddziaływania grawitacyjnego elementów układu
 - prędkości kątowej
 - Saturna
-
+![image](https://user-images.githubusercontent.com/74205927/183147689-5195e5b2-14dd-4a4c-8bb7-645de59952c6.png)
 https://docs.google.com/presentation/d/16-TMFS5BC_7Y7fjRGQgvO02DmemcVedGcHWO4wUWJO4/edit?usp=sharing
 
